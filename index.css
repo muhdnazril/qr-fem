@@ -1,0 +1,76 @@
+.otbox{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 6rem;
+}
+p{
+    padding-bottom: 3rem;
+}
+.bx1{
+    width: 12rem;
+    background-color: #e38826;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 3rem;
+    border-radius: 6px 0 0 6px;
+    color: white;
+}
+.btn-sdn{
+    color:#e38826 ;
+    padding: 1rem 2rem;
+    border-radius: 1.5rem;
+    border: white;
+    background-color: white;
+}
+.btn-sdn:hover{
+    color: white;
+    background-color: #e38826;
+    border: white;
+}
+.bx2{
+    width: 12rem;
+    background-color: #006970;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 3rem;
+    color: white;
+}
+.btn-suv{
+    color:#006970 ;
+    padding: 1rem 2rem;
+    border-radius: 1.5rem;
+    border: white;
+    background-color: white;
+}
+.btn-suv:hover{
+    color: white;
+    background-color: #006970;
+    border: white;
+}
+.bx3{
+    width: 12rem;
+    background-color: #004241;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 3rem;
+    border-radius: 0 6px 6px 0;
+    color: white;
+}
+.btn-lxr{
+    color:#004241 ;
+    padding: 1rem 2rem;
+    border-radius: 1.5rem;
+    border: white;
+    background-color: white;
+}
+.btn-lxr:hover{
+    color: white;
+    background-color: #004241;
+    border: white;
+}
